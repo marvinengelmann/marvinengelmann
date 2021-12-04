@@ -1,1 +1,1 @@
-![Nyan cat](https://raw.githubusercontent.com/marvinengelmann/marvinengelmann/master/nyan-cat.gif)
+![Rick](https://raw.githubusercontent.com/marvinengelmann/marvinengelmann/master/rick.gif)
