@@ -1,1 +1,1 @@
-![Rick](https://raw.githubusercontent.com/marvinengelmann/marvinengelmann/master/rick.gif)
+![Rick](https://raw.githubusercontent.com/marvinengelmann/marvinengelmann/master/ketnipz.gif)
